@@ -4,3 +4,6 @@
 [submodule "react-data-flow"]
 	path = react-data-flow
 	url = https://github.com/aungmyatmoe2021/react-data-flow
+[submodule "composition-and-code-splitting"]
+	path = composition-and-code-splitting
+	url = https://github.com/aungmyatmoe2021/composition-and-code-splitting
