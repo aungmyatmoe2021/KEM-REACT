@@ -9,4 +9,4 @@
 	url = https://github.com/aungmyatmoe2021/composition-and-code-splitting
 [submodule "component-style"]
 	path = component-style
-	url = https://github.com/aungmyatmoe2021/component-style/tree/main/src
+	url = https://github.com/aungmyatmoe2021/component-style
