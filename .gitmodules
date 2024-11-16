@@ -10,3 +10,6 @@
 [submodule "component-style"]
 	path = component-style
 	url = https://github.com/aungmyatmoe2021/component-style
+[submodule "functional-component"]
+	path = functional-component
+	url = https://github.com/aungmyatmoe2021/functional-component
