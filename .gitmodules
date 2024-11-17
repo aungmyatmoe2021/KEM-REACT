@@ -16,3 +16,6 @@
 [submodule "context"]
 	path = context
 	url = https://github.com/aungmyatmoe2021/context
+[submodule "hello-redux"]
+	path = hello-redux
+	url = https://github.com/aungmyatmoe2021/hello-redux
