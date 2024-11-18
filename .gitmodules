@@ -25,3 +25,6 @@
 [submodule "working-with-api"]
 	path = working-with-api
 	url = https://github.com/aungmyatmoe2021/working-with-api
+[submodule "next-example"]
+	path = next-example
+	url = https://github.com/aungmyatmoe2021/next-example
