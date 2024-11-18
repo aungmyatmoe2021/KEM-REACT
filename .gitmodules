@@ -19,3 +19,6 @@
 [submodule "hello-redux"]
 	path = hello-redux
 	url = https://github.com/aungmyatmoe2021/hello-redux
+[submodule "react-router"]
+	path = react-router
+	url = https://github.com/aungmyatmoe2021/react-router
